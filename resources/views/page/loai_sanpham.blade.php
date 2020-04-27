@@ -29,7 +29,7 @@
 					<div class="beta-products-list">
 						<h4>New Products</h4>
 						<div class="beta-products-details">
-							<p class="pull-left">438 styles found</p>
+							<p class="pull-left">{{count($sp_theoloai)}} san pham</p>
 							<div class="clearfix"></div>
 						</div>
 
